@@ -1,3 +1,5 @@
+// Filter Component
+
 import React from 'react';
 
 function App() {
